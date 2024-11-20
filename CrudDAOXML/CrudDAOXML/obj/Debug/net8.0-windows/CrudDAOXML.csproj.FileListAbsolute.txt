@@ -1,0 +1,16 @@
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\bin\Debug\net8.0-windows\CrudDAOXML.exe
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\bin\Debug\net8.0-windows\CrudDAOXML.deps.json
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\bin\Debug\net8.0-windows\CrudDAOXML.runtimeconfig.json
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\bin\Debug\net8.0-windows\CrudDAOXML.dll
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\bin\Debug\net8.0-windows\CrudDAOXML.pdb
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\obj\Debug\net8.0-windows\CrudDAOXML.Crud.resources
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\obj\Debug\net8.0-windows\CrudDAOXML.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\obj\Debug\net8.0-windows\CrudDAOXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\obj\Debug\net8.0-windows\CrudDAOXML.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\obj\Debug\net8.0-windows\CrudDAOXML.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\obj\Debug\net8.0-windows\CrudDAOXML.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\obj\Debug\net8.0-windows\CrudDAOXML.dll
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\obj\Debug\net8.0-windows\refint\CrudDAOXML.dll
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\obj\Debug\net8.0-windows\CrudDAOXML.pdb
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\obj\Debug\net8.0-windows\CrudDAOXML.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\CrudDAOXML\CrudDAOXML\obj\Debug\net8.0-windows\ref\CrudDAOXML.dll
